@@ -1,0 +1,5 @@
+ShowExternalHardDrivesOnDesktop -bool FALSE
+ShowHardDrivesOnDesktop -bool FALSE
+ShowRemovableMediaOnDesktop -bool FALSE
+
+FXDefaultSearchScope -string SCcf

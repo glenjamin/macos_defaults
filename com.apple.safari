@@ -1,0 +1,16 @@
+ShowStatusBar -bool true
+
+# Open new tabs/windows with empty page
+NewWindowBehavior -int 1
+NewTabBehavior -int 1
+
+# Remove download list items upon successful download
+DownloadsClearingPolicy -int 2
+
+# Allow tabbing to links
+WebKitTabToLinksPreferenceKey -bool true
+
+# Developer extras
+IncludeDevelopMenu -bool true
+WebKitDeveloperExtrasEnabledPreferenceKey -bool true
+WebKitDeveloperExtras -bool true

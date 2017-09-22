@@ -1,0 +1,13 @@
+# Set appearance and highlight colour to graphite
+AppleAquaColorVariant -int 6
+AppleHighlightColor -string "0.780400 0.815700 0.858800"
+
+# Dark mode
+AppleInterfaceTheme -string "Dark"
+
+# Locale and language preferences
+AppleLocale -string "en_GB"
+AppleLanguages -array "en-GB"
+
+# Full keyboard access for all controls
+AppleKeyboardUIMode -int 3
