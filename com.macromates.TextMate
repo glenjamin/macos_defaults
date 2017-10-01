@@ -1,0 +1,13 @@
+SoftwareUpdateChannel -string beta
+
+disableNewDocumentAtReactivation -bool TRUE
+disableNewDocumentAtStartup -bool TRUE
+
+findWrapAround -bool TRUE
+findIgnoreCase -bool TRUE
+
+tabsAboveDocument -bool TRUE
+
+rmateServerDisabled -bool TRUE
+
+wrapColumnPresets -array 40 72 80
