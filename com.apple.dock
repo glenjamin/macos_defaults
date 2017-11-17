@@ -1,6 +1,6 @@
 # Enable hiding and magnification
 autohide -bool true
-magnification -bool true
+magnification -bool false
 tilesize -int 50
 largetilesize -int 65
 

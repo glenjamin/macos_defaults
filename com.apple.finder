@@ -2,4 +2,5 @@ ShowExternalHardDrivesOnDesktop -bool FALSE
 ShowHardDrivesOnDesktop -bool FALSE
 ShowRemovableMediaOnDesktop -bool FALSE
 
+# Search scoped from current dir
 FXDefaultSearchScope -string SCcf
