@@ -1,7 +1,9 @@
-# Enable hiding and magnification
 autohide -bool true
 magnification -bool false
-tilesize -int 50
-largetilesize -int 65
+autohide-delay -float 0
+
+orientation -string 'left'
+
+tilesize -int 40
 
 KILL Dock
