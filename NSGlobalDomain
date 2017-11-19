@@ -4,3 +4,6 @@ AppleLanguages -array "en-GB"
 
 # Full keyboard access for all controls
 AppleKeyboardUIMode -int 3
+
+# scroll the old way
+com.apple.swipescrolldirection -bool false

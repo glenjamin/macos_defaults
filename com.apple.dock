@@ -6,4 +6,6 @@ orientation -string 'left'
 
 tilesize -int 40
 
+showAppExposeGestureEnabled -bool true
+
 KILL Dock
